@@ -72,54 +72,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rioagusto1808&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Focus
 
-```javascript
-const rio = {
-    pronouns: "He/Him",
-    code: ["JavaScript", "TypeScript", "PHP", "Python"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Next.js"],
-            css: ["Tailwind", "Bootstrap", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            php: ["Laravel", "CodeIgniter"],
-            python: ["Django", "Flask"]
-        },
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        misc: ["Docker", "AWS", "Git", "Linux"]
-    },
-    currentFocus: "Building scalable web applications",
-    funFact: "I debug with console.log() and I'm proud of it!"
-};
-```
-
-## 📈 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-JavaScript   8 hrs 12 mins   ████████████░░░░░░░░░░░░░   48.32%
-TypeScript   3 hrs 45 mins   ██████░░░░░░░░░░░░░░░░░░░   22.10%
-PHP          2 hrs 30 mins   ███░░░░░░░░░░░░░░░░░░░░░░   14.75%
-CSS          1 hr 15 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   7.40%
-HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   4.43%
-Other        30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   3.00%
-```
-<!--END_SECTION:waka-->
-
-## 🎨 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/rioagusto/awesome-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioagusto&repo=awesome-project-1&theme=radical&hide_border=true" alt="Awesome Project 1" />
-  </a>
-  <a href="https://github.com/rioagusto/awesome-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rioagusto&repo=awesome-project-2&theme=radical&hide_border=true" alt="Awesome Project 2" />
-  </a>
-</div>
 
 ## 🌐 Connect with Me
 
@@ -149,17 +102,3 @@ Other        30 mins         █░░░░░░░░░░░░░░░░
 
 <div align="center">
   
-### 🎵 Currently Vibing To
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=your-spotify-username&unique=true)](https://open.spotify.com/user/your-spotify-username)
-
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rioagusto/rioagusto/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  <i>⭐️ From <a href="https://github.com/rioagusto">Rio Agusto</a></i>
-</div>
