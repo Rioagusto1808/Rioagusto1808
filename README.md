@@ -49,15 +49,15 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rioagusto&show_icons=true&theme=radical&hide_border=true" alt="Rio's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rioagusto1808&show_icons=true&theme=radical&hide_border=true" alt="Rio's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rioagusto&theme=radical&hide_border=true" alt="Rio's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rioagusto1808&theme=radical&hide_border=true" alt="Rio's GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rioagusto&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rioagusto1808&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </div>
 
 ## 🏆 GitHub Trophies
