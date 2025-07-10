@@ -63,13 +63,13 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rioagusto&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Rioagusto1808&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 ## 🔥 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rioagusto&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rioagusto1808&theme=react-dark&hide_border=true" alt="Contribution Graph" />
 </div>
 
 ## 🎯 Current Focus
@@ -144,7 +144,7 @@ Other        30 mins         █░░░░░░░░░░░░░░░░
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rioagusto&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Rioagusto1808&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
 
 <div align="center">
