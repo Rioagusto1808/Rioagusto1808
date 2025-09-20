@@ -10,7 +10,7 @@
 - 🌱 I'm constantly learning **new technologies**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **JavaScript, React, Node.js, PHP**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **rioagustor18@gmail.com**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 
 ## 🛠️ Tech Stack
